@@ -1,0 +1,16 @@
+#buttonColor {
+    display: flex;
+    margin: auto;
+    margin-top: 300px;
+    padding: 10px 10px 10px 10px;
+    background-color: transparent;
+    border-color: rgb(0, 225, 255);
+    border-width: 5px;
+    font-weight: 900;
+    color: rgb(0, 225, 255);
+}
+
+#buttonColor:hover {
+    border-color: rgb(55, 211, 41);
+    color: rgb(55, 211, 41);
+}
